@@ -1,5 +1,5 @@
 This is some custom game and apps thumbs developed by me (Middle) 
-and some membres of XBMC comunnity. 
+and some members of XBMC comunnity. 
  
 Thx to: 
 phear 
