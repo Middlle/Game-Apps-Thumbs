@@ -3,6 +3,7 @@ and some members of XBMC comunnity.
  
 Thx to: 
 phear 
-BarryAllen 
+BarryAllen
+aNILEator
  
-for contribuition in this thumbs project.
+for their contributions to this thumbs project.
